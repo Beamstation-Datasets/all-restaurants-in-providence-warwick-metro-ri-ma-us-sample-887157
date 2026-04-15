@@ -1,0 +1,12 @@
+{
+  "export_job_id": "9baa90d5-23b0-421a-827a-8ac0ed519515",
+  "id_short": 887157,
+  "published_at": "2026-04-15T19:13:47Z",
+  "repo_name": "all-restaurants-in-providence-warwick-metro-ri-ma-us-sample-887157",
+  "sample_asset_name": "beamstation_887157_restaurants-us-providencewarwickrima_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/887157/beamstation_887157_restaurants-us-providencewarwickrima_SAMPLE_DIST.csv",
+  "sample_records": 424,
+  "sample_sha256": "8f009a5bfd0e6ab55c821063fb11980386a789843d6eba9e8fd82caff76fda4a",
+  "sample_size_bytes": 1443368,
+  "total_records": 4310
+}
