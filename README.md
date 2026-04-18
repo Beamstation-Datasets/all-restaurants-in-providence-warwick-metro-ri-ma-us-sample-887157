@@ -9,9 +9,9 @@
 | Dataset ID | `887157` |
 | Location | Providence-Warwick, RI-MA |
 | Category | Restaurants |
-| Full dataset size | 4,310 records |
-| Free sample size | 424 records (9.84%) |
-| Last export | 2026-04-07T13:47:34.454303+00:00 |
+| Full dataset size | 4,243 records |
+| Free sample size | 424 records (9.99%) |
+| Last export | 2026-04-14T20:51:10.050811+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-providence-warwick-metro-ri-ma-us-sample-887157/releases/download/sample-latest/beamstation_887157_restaurants-us-providencewarwickrima_SAMPLE_DIST.csv) |
 
 ## What is in this sample
