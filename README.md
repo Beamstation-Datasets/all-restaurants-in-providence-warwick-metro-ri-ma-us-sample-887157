@@ -1,6 +1,6 @@
 # All Restaurants in Providence-Warwick (Metro), RI-MA, US
 
-> Free BeamStation sample export with 342 rows and masked direct-contact fields.
+> Free BeamStation sample export with 418 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `887157` |
 | Location | Providence-Warwick, RI-MA |
 | Category | Restaurants |
-| Full dataset size | 3,426 records |
-| Free sample size | 342 records (9.98%) |
-| Last export | 2026-04-21T23:16:48.710342+00:00 |
+| Full dataset size | 4,183 records |
+| Free sample size | 418 records (9.99%) |
+| Last export | 2026-04-29T02:26:47.332307+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-providence-warwick-metro-ri-ma-us-sample-887157/releases/download/sample-latest/beamstation_887157_restaurants-us-providencewarwickrima_SAMPLE_DIST.csv) |
 
 ## What is in this sample
